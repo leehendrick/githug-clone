@@ -1,2 +1,2 @@
 # githug-clone
-GitHub rebuild with TailwindCSS
+GitHub rebuild with TailwindCSS && Nuxtjs
